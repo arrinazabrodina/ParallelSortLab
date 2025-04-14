@@ -1,0 +1,4 @@
+/Users/arinazabrodina/CLionProjects/ParallelSortLab/cmake-build-debug/CMakeFiles/openmp.dir
+/Users/arinazabrodina/CLionProjects/ParallelSortLab/cmake-build-debug/CMakeFiles/mpi.dir
+/Users/arinazabrodina/CLionProjects/ParallelSortLab/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arinazabrodina/CLionProjects/ParallelSortLab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
